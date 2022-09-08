@@ -4,9 +4,15 @@ Ever had to manage money? Had to deal with confusing excel sheets? Deal with who
 
 Our team (Safal Shrestha, Krises Maskey, Maisa Mahrin, Tasnim Ahmed) have something in mind to help you deal with all these issues.
 
+## Collaboration
+Safal
+Krises
+Tasnim
+Maisha
+
 ## Our product helps people to easily split, manage, and understand their expenses.
 
-We will be building a web application that will allow users to put in their daily expenses.
+We will be building a web application that will allow users to put in their daily expenses, add friends into the expense distribution chart and include or exclude certain friends from the group when splitting a bill and connect with a safe payment method that is used by everyone in the friend group or "family" to sort out the money.
 
 ## Target Audience
 
