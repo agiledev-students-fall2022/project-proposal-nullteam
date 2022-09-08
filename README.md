@@ -1,4 +1,4 @@
-# Personal Finance Manager
+# Almal
 
 Ever had to manage money? Had to deal with confusing excel sheets? Deal with who owes what to who and how much?
 
@@ -9,7 +9,7 @@ Our team has something in mind to help you deal with all these issues.
 2. Krises Maskey
 3. Maisa Mahrin
 4. Tasnim Ahmed
-
+5. Ritin Malhotra
 
 ## Our product helps people to easily split, manage, and understand their expenses.
 
