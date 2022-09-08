@@ -2,7 +2,7 @@
 
 Ever had to manage money? Had to deal with confusing excel sheets? Deal with who owes what to who and how?
 
-Our team (Safal Shrestha, Krises Maskey, Maisa Mahrin, Tasnim Ahmed) have something in mind to help you deal with all these issues.
+Our team has something in mind to help you deal with all these issues.
 
 ## Collaboration
 1. Safal Shrestha
@@ -17,7 +17,12 @@ We will be building a web application that will allow users to put in their dail
 
 ## Target Audience
 
-'User - story'
+This application is a productivity tool built for the college students, the graduates, the people who are starting to transition into 'adulthood'. It is for someone who wants to make accounting clear/easier for themselves and their friends.
 
 ## How does it work?
 
+A user will be able to add their credit/expenses on this application. You can add a friend on the website using their unique username. Each expense added in the app can be tagged and shared with a user's acquaintances. Each acquaintance will have a shared account of all the expenses that are split with them. At their own time, the users can settle the amount left to split among them using an integrated payment gateway (or the person who is owed the money can settle on the app).
+
+### Scope
+
+//
