@@ -5,13 +5,11 @@ Ever had to manage money? Had to deal with confusing excel sheets? Deal with who
 Our team (Safal Shrestha, Krises Maskey, Maisa Mahrin, Tasnim Ahmed) have something in mind to help you deal with all these issues.
 
 ## Collaboration
-Safal
+1. Safal Shrestha
+2. Krises Maskey
+3. Maisa Mahrin
+4. Tasnim Ahmed
 
-Krises
-
-Tasnim
-
-Maisha
 
 ## Our product helps people to easily split, manage, and understand their expenses.
 
