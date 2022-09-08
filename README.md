@@ -2,7 +2,7 @@
 
 Ever had a money management crisis? Forgot to update your excel sheet? Or maybe you can't recall how much you owe to a friend?
 
-Our team has come up with Almaal, an money management web application which will resolve your money related issues.
+Our team has come up with Almaal, a money management web application which will resolve your money related issues.
 
 ## Collaboration
 1. Safal Shrestha
