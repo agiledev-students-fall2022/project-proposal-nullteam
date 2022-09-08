@@ -1,4 +1,4 @@
-# Almal
+# Almaal
 
 Ever had to manage money? Had to deal with confusing excel sheets? Deal with who owes what to who and how much?
 
