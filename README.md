@@ -19,7 +19,7 @@ We will build a web application that will allow users to input and track their d
 
 ## Who is our target audience?
 
-Almaal is a productivity and management tool that is built for college students, graduates and for the people who are transitioning into adulthood. In short, it is a tool for someone who is seeking to make their finance matters easier and clearer for themselves and their friends/family. 
+Almaal is a productivity and management tool that is built for college students, graduates and for the people who are transitioning into adulthood. In short, it is a tool for someone who is seeking to make their finance matters easier and clearer for themselves and their friends/family. It also aims to help students learn financial literacy through hands on experience in budgeting.
 
 ## How does it work?
 
