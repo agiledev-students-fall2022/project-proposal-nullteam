@@ -1,8 +1,8 @@
 # Almaal
 
-Ever had to manage money? Had to deal with confusing excel sheets? Deal with who owes what to who and how much?
+Ever had a money management crisis? Forgot to update your excel sheet? Or maybe you can't recall how much you owe to a friend?
 
-Our team has something in mind to help you deal with all these issues.
+Our team has come up with something to help resolve your money management crisis!
 
 ## Collaboration
 1. Safal Shrestha
