@@ -1,3 +1,9 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8397256&assignment_repo_type=AssignmentRepo)
-# Project Proposal
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
+# Personal Finance Manager
+
+Ever had to manage money? Had to deal with confusing excel sheets? Deal with who owes what to who and how?
+
+Our team (Safal Shrestha, Krises Maskey, Maisa Mahrin) have something in mind to help you deal with all these issues.
+
+## Our product helps people to easily split, manage, and understand their expenses.
+
+We will be building a web application that will allow users to put in their daily expenses.
