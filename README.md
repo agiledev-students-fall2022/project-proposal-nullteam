@@ -7,3 +7,10 @@ Our team (Safal Shrestha, Krises Maskey, Maisa Mahrin) have something in mind to
 ## Our product helps people to easily split, manage, and understand their expenses.
 
 We will be building a web application that will allow users to put in their daily expenses.
+
+## Target Audience
+
+'User - story'
+
+## How does it work?
+
