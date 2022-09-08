@@ -6,8 +6,11 @@ Our team (Safal Shrestha, Krises Maskey, Maisa Mahrin, Tasnim Ahmed) have someth
 
 ## Collaboration
 Safal
+
 Krises
+
 Tasnim
+
 Maisha
 
 ## Our product helps people to easily split, manage, and understand their expenses.
