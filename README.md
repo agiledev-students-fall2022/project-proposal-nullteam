@@ -27,4 +27,4 @@ A user will be able to add their credit or expenses on this application. You can
 
 ### Scope
 
-The UI for the project will be fairly simple. The main focus will lie on visualizations, which will be fairly straightforward to implement with chart.js. The main focus of the project will be on the backend, especially on database design. However, it should be doable if we focus multiple people's concentration during the backend sprint.
+The UI for the project will be fairly simple. The main focus will lie on visualizations, which will be fairly straightforward to implement with chart.js and d3.js. The main focus of the project will be on the backend, especially on database design. However, it should be doable if we focus multiple people's concentration during the backend sprint.
