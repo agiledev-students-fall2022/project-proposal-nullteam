@@ -11,11 +11,12 @@ Our team has something in mind to help you deal with all these issues.
 4. Tasnim Ahmed
 
 
-## Our product helps people to easily split, manage, and understand their expenses.
+## What is the purpose of this sofware?
+### Our product helps people to easily split, manage, and understand their expenses.
 
 We will be building a web application that will allow users to put in their daily expenses, add friends into the expense distribution chart and include or exclude certain friends from the group when splitting a bill and connect with a safe payment method that is used by everyone in the friend group or "family" to sort out the money.
 
-## Target Audience
+## Who is our target audience?
 
 This application is a productivity tool built for the college students, the graduates, the people who are starting to transition into 'adulthood'. It is for someone who wants to make accounting clear/easier for themselves and their friends.
 
