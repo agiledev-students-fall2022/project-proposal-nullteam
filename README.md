@@ -25,4 +25,4 @@ A user will be able to add their credit/expenses on this application. You can ad
 
 ### Scope
 
-//
+The UI for the project is going to be fairly simple. The main focus will be on visualizations which will be fairly straightforward to implement with chart.js. The main focus of the project will be on the backend, especially on database design. However, it should be doable if we focus multiple people's concentration during the backend sprint.
