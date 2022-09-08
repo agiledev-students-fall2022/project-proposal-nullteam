@@ -14,7 +14,7 @@ Our team has come up with Almaal, a money management web application which will 
 ## What is the purpose of this sofware?
 ### Our product helps people to easily split, manage, and understand their expenses.
 
-We will build a web application that will allow users to input and track their daily expenses, add friends into the expense distribution chart, include or exclude certain friends from the group when splitting a bill and connect with a safe payment method that is used by everyone in their social circle to sort out the money.
+We will build a web application that will allow users to input and track their daily expenses, add friends into the expense distribution chart, include or exclude certain friends from the group when splitting a bill and connect with a safe payment method that is used by everyone in their social circle to sort out the money. We also plan to include data visualization to help users understand their expenses in greater detail.
 
 
 ## Who is our target audience?
