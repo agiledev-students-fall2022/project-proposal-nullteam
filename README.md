@@ -2,7 +2,7 @@
 
 Ever had a money management crisis? Forgot to update your excel sheet? Or maybe you can't recall how much you owe to a friend?
 
-Our team has come up with something to help resolve your money management crisis!
+Our team has come up with, Almaal, an money management web application which will resolve your money related issues.
 
 ## Collaboration
 1. Safal Shrestha
@@ -14,11 +14,12 @@ Our team has come up with something to help resolve your money management crisis
 ## What is the purpose of this sofware?
 ### Our product helps people to easily split, manage, and understand their expenses.
 
-We will build a web application that will allow users to input their daily expenses, add friends into the expense distribution chart, include or exclude certain friends from the group when splitting a bill and connect with a safe payment method that is used by everyone in the friend group or "family" to sort out the money.
+We will build a web application that will allow users to input and track their daily expenses, add friends into the expense distribution chart, include or exclude certain friends from the group when splitting a bill and connect with a safe payment method that is used by everyone in their social circle to sort out the money.
+
 
 ## Who is our target audience?
 
-This application is a productivity tool built for the college students, the graduates, the people who are starting to transition into adulthood. It is for someone who wants to make accounting clearer and easier for themselves and their friends.
+Almaal is a productivity and management tool that is built for college students, graduates and for the people who are transitioning into adulthood. In short, it is a tool for someone who is seeking to make their finance matters easier and clearer for themselves and their friends/family. 
 
 ## How does it work?
 
